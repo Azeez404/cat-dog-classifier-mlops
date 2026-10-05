@@ -32,3 +32,10 @@ Thumbs.db
 # IDE
 .vscode/
 .idea/
+mlflow.db
+mlruns/
+models/*.pth
+models/*.h5
+dvc-storage/
+.dvc/cache/
+.ipynb_checkpoints/
