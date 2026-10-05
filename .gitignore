@@ -20,6 +20,7 @@ mlruns/
 
 # DVC cache
 .dvc/cache/
+dvc-storage/
 
 # Python environments
 .env
