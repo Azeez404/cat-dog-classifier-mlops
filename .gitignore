@@ -1,0 +1,33 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+
+# Virtual environment
+.venv/
+
+# Jupyter
+.ipynb_checkpoints/
+
+#
+
+# Model files
+models/*.pth
+models/*.h5
+
+# MLflow
+mlruns/
+
+# DVC cache
+.dvc/cache/
+
+# Python environments
+.env
+
+# OS
+.DS_Store
+Thumbs.db
+
+# IDE
+.vscode/
+.idea/
